@@ -2,6 +2,8 @@
 
 //PENGUIN GAME//
 
-Group 102 Team F
+Collaborated to develop a strategy board game implemented in C, of which purpose is to maximize the number of fish available
+while minimizing steps taken by the penguin.
 
-This is a group project the goal  of which is creating a game in C.
+• Built an algorithm to generate board for penguins to step on and wrote functions to decide the penguin movement based on
+surrounding conditions. 
